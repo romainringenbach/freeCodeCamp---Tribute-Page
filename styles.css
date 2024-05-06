@@ -50,6 +50,7 @@ main > .container {
     height: 240px;
     width: 100vw;
     margin: 0;
+    background-color: black;
 }
 
 #img-div > .img-clip-space {
